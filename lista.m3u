@@ -13,6 +13,8 @@ http://live.impresa.pt/live/sicnot/sicnot.m3u8
 http://streaming-live-app.rtp.pt/liverepeater/smil:rtpn.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVI24"  group-title="News",TVI 24
 http://video-auth8.iol.pt/live_tvi24/live_tvi24/playlist.m3u8
+#EXTINF:-1 tvg-id="PORTOCANAL"  group-title="Entertainment",Porto Canal
+https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
 #EXTINF:-1 tvg-id="ARTV" group-title="News",ARTV
 http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8
 #EXTINF:-1,AR TV
@@ -65,3 +67,19 @@ https://video01.kshost.com.br/associacao9628/associacao9628/playlist.m3u8
 https://5d82644094cc0.streamlock.net/clubefmtv/clubefmtv/playlist.m3u8
 #EXTINF:-1,Matosinhos TV
 https://5d82644094cc0.streamlock.net:443/8030/8030/playlist.m3u8
+
+#EXTINF:-1,===== TVS LUSOFONAS=====
+#EXTINF:-1 group-title="Macau",TDM
+http://live4.tdm.com.mo/ch2/_definst_//ch2.live/playlist.m3u8
+#EXTINF:-1 group-title="CaboVerde",TCV Internacional
+http://videos.nosi.cv/tcvi/smil:tcvilive.smil/playlist.m3u8
+#EXTINF:-1 group-title="Mocambique",TV Sucesso
+https://streaming.wim.tv/live/tvsucesso1_aac/chunklist_w1308564204.m3u8
+#EXTINF:-1 group-title="Mocambique",TVM
+http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Mocambique",TVM Internacional
+http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Mocambique",Soico TV
+https://dcunilive36-lh.akamaihd.net/i/dclive_1@668002/index_150_av-p.m3u8?sd=6&rebase=on
+#EXTINF:-1 group-title="Luxemburgo",TV MCJ
+https://v5.ciclano.io:1443/tvmcj/_definst_/tvmcj/playlist.m3u8
